@@ -1,0 +1,41 @@
+      body{
+        background-color: #000000;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-weight: 100;
+        color: aliceblue;
+      }
+      a{
+        text-decoration: none;
+        color: aliceblue;
+      }
+      a:hover{
+        background-color: aliceblue;
+        transition-delay: 2ms;
+        transition: a 2ms ease-in 10ms;
+        color: black;
+        border-radius: 10px;
+        font-size: 20px;
+        font-weight: 200;
+        font-variant: small-caps;
+      }
+
+      hr{
+        border-style: none;
+      }
+
+      h1{
+        color: #CF0A0A  ;
+      }
+
+      
+      h2{
+        color: #CF0A0A  ;
+      }
+      h1:hover{
+        color: #ffffff  ;
+      }
+
+      
+      h2:hover{
+        color: #ffffff  ;
+      }
